@@ -1,0 +1,9 @@
+/*
+Theme Name:     Bread-and-cake-child
+Template:       bread-and-cake
+
+This is the child theme for Bread and Cake theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../twentyseventeen/rtl.css");

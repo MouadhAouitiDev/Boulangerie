@@ -1,0 +1,1001 @@
+# Translation of Plugins - Social Feed Gallery - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Social Feed Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-05 08:54:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Social Feed Gallery - Stable (latest release)\n"
+
+#: includes/backend.php:64
+msgid "Select Color"
+msgstr "Sélectionner une couleur"
+
+#: includes/backend.php:63
+msgid "Select default color"
+msgstr "Sélectionner la couleur par défaut"
+
+#: includes/backend.php:62
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/backend.php:61
+msgid "Clear color"
+msgstr "Effacer la couleur"
+
+#: includes/backend.php:65
+msgid "Color value"
+msgstr "Valeur de la couleur"
+
+#: includes/backend.php:60
+msgid "Clear"
+msgstr "Effacer"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:54
+#: assets/backend/js/gutenberg.js:6
+msgid "Order by"
+msgstr "Trier par"
+
+#: includes/api/apiBusiness.php:96
+msgid "Please update Instagram Access Token in the account and feed settings."
+msgstr "Veuillez mettre à jour le jeton d’accès Instagram dans les réglages du compte et du flux."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:47
+#: assets/backend/js/gutenberg.js:6
+msgid "Biography"
+msgstr "Biographie"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:12
+#: includes/view/backend/pages/accounts.php:31 assets/backend/js/gutenberg.js:6
+msgid "Account"
+msgstr "Compte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:48
+#: assets/backend/js/gutenberg.js:6
+msgid "Feed profile biography"
+msgstr "Biographie du profil de flux"
+
+#: includes/view/backend/pages/accounts.php:18
+msgid "Create business account"
+msgstr "Créer un compte professionnel"
+
+#: includes/view/backend/pages/accounts.php:7
+#: includes/view/backend/pages/accounts.php:8
+msgid "Add Personal Account"
+msgstr "Ajouter un compte personnel"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:39
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:10
+msgid "Saved."
+msgstr "Enregistré."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:41
+#: assets/backend/js/gutenberg.js:6
+msgid "Feed profile full name"
+msgstr "Nom complet du profil de flux"
+
+#: includes/controllers/AccountController.php:139
+msgid "Account removed successfully"
+msgstr "La compte a bien été supprimé"
+
+#: includes/view/backend/pages/accounts.php:34
+msgid "Expires"
+msgstr "Expire"
+
+#: includes/helpers.php:150
+msgid "Please update Instagram Access Token in the account settings."
+msgstr "Veuillez mettre à jour le jeton d’accès Instagram dans les réglages du compte."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:37
+#: assets/backend/js/gutenberg.js:6
+msgid "Images popup comments"
+msgstr "Commentaires contextuels sur les images"
+
+#: includes/view/backend/pages/modals/account/main.php:25
+msgid "Account Token"
+msgstr "Jeton de compte"
+
+#: includes/notices.php:82
+msgid "More Info!"
+msgstr "Plus d’infos !"
+
+#: includes/view/backend/pages/modals/account/main.php:20
+msgid "Account ID:"
+msgstr "ID du compte :"
+
+#: includes/view/backend/pages/modals/account/main.php:21
+msgid "Enter a user id"
+msgstr "Saisissez un identifiant d’utilisateur"
+
+#: includes/helpers.php:70
+msgid "This token expires soon!"
+msgstr "Ce jeton expire bientôt !"
+
+#: includes/notices.php:75
+msgid "Important! Update tokens required"
+msgstr "Important ! Mettre à jour les jetons nécessaires"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:56
+#: assets/backend/js/gutenberg.js:6
+msgid "Align item description in popup"
+msgstr "Aligner la description de l’élément dans la fenêtre surgissante"
+
+#: includes/notices.php:85
+msgid "Update Tokens"
+msgstr "Mettre les jetons à jour"
+
+#: includes/api/apiBusiness.php:82
+msgid "Please update Instagram Tag in the feed settings."
+msgstr "Veuillez mettre à jour l’étiquette Instagram dans les réglages du flux."
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:26
+#: assets/backend/js/gutenberg.js:6
+msgid "Image popup"
+msgstr "Image fenêtre surgissante"
+
+#: includes/view/backend/pages/feeds.php:6
+msgid "Save reorder"
+msgstr "Enregistrer la réorganisation"
+
+#: includes/view/backend/pages/feeds.php:61
+#: includes/view/backend/pages/modals/feed/main.php:18
+msgid "Edit feed"
+msgstr "Modifier le flux "
+
+#: includes/view/backend/pages/feeds.php:63
+msgid "Delete feed"
+msgstr "Supprimer le flux"
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:32
+msgid "Button load more"
+msgstr "Bouton charger plus"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image.php:5
+msgid "Images resolution"
+msgstr "Résolution des images"
+
+#: includes/controllers/QLIGG_Controller.php:14
+msgid "Please, reload page"
+msgstr "Veuillez recharger la page"
+
+#: includes/view/backend/pages/modals/feed/main.php:18
+msgid "New"
+msgstr "Nouveau"
+
+#: includes/view/backend/pages/settings.php:64
+#: includes/view/backend/pages/modals/account/main.php:45
+#: includes/view/backend/pages/modals/feed/main.php:43
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/controllers/FeedController.php:169
+#: includes/controllers/FeedController.php:170
+msgid "Do you want to delete the feed?"
+msgstr "Voulez-vous supprimer le flux ?"
+
+#: includes/view/backend/pages/parts/header.php:10
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:31
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/controllers/QLIGG_Controller.php:18
+msgid "Access denied"
+msgstr "Accès refusé"
+
+#: includes/controllers/FeedController.php:34
+msgid "All"
+msgstr "Toutes"
+
+#: includes/controllers/SettingController.php:12
+msgid "Setting"
+msgstr "Réglage"
+
+#: includes/view/backend/pages/modals/feed/main.php:49
+msgid "Close"
+msgstr "Fermer"
+
+#: includes/view/backend/pages/modals/account/main.php:7
+#: includes/view/backend/pages/modals/feed/main.php:15
+msgid "Close dialog"
+msgstr "Fermez la boîte de dialogue"
+
+#: includes/view/backend/pages/modals/feed/main.php:13
+msgid "Edit next media item"
+msgstr "Modifier l’élément média suivant"
+
+#: includes/view/backend/pages/modals/feed/main.php:12
+msgid "Edit previous media item"
+msgstr "Modifier l’élément média précédent"
+
+#: includes/view/backend/pages/feeds.php:62
+msgid "Clear feed cache"
+msgstr "Effacer le cache du flux"
+
+#: includes/view/backend/pages/feeds.php:17
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:14
+#: includes/view/backend/pages/modals/feed/panel-feed.php:33
+#: assets/backend/js/gutenberg.js:6
+msgid "Feed"
+msgstr "Flux"
+
+#: includes/view/backend/pages/feeds.php:7
+#: includes/view/backend/pages/modals/account/main.php:40
+#: includes/view/backend/pages/modals/feed/main.php:38
+msgid "Saved successfully!"
+msgstr "Bien enregistré !"
+
+#: includes/view/backend/pages/feeds.php:4
+msgid "+ Feed"
+msgstr "+ flux"
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:29
+msgid "Button"
+msgstr "Bouton"
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:3
+#: assets/backend/js/gutenberg.js:6
+msgid "General"
+msgstr "Générales"
+
+#: includes/view/backend/pages/parts/header.php:5
+msgid "Thanks for using %s! We will do our best to offer you the best and improved communication experience with your users."
+msgstr "Merci d’utiliser %s ! Nous ferons de notre mieux pour vous offrir la meilleure et la plus efficace des expériences de communication avec vos utilisateurs."
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:23
+#: assets/backend/js/gutenberg.js:6
+msgid "Image mask"
+msgstr "Masque d’image "
+
+#: includes/widget.php:66
+msgid "Feed %s"
+msgstr "Flux %s"
+
+#: includes/models/Suggestions.php:120
+msgctxt "Plugin Installer"
+msgid "Favorites"
+msgstr "Favorites"
+
+#: includes/models/Suggestions.php:119
+msgctxt "Plugin Installer"
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: includes/models/Suggestions.php:118
+msgctxt "Plugin Installer"
+msgid "Popular"
+msgstr "Populaire"
+
+#: includes/models/Suggestions.php:117
+msgctxt "Plugin Installer"
+msgid "Featured"
+msgstr "Mise en avant"
+
+#: includes/models/Suggestions.php:112
+msgid "Search Results"
+msgstr "Résultats de recherche"
+
+#: includes/controllers/SuggestionsController.php:9
+msgid "Suggestions"
+msgstr "Suggestions"
+
+#: includes/models/Suggestions.php:115
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "Beta test"
+
+#: includes/view/backend/pages/feeds.php:62
+msgid "Cache"
+msgstr "Cache"
+
+#: includes/view/backend/pages/settings.php:10
+msgid "Feeds cache"
+msgstr "Cache des flux"
+
+#: includes/controllers/FeedController.php:132
+msgid "Feed cache cleared"
+msgstr "Cache de flux effacé"
+
+#: includes/view/backend/pages/settings.php:19
+msgid "Remove data"
+msgstr "Retirer les données"
+
+#: includes/view/backend/pages/welcome.php:37
+msgid "Join our community"
+msgstr "Rejoignez notre communauté !"
+
+#: includes/view/backend/pages/settings.php:14
+msgid "Reset your Instagram feeds cache every x hours."
+msgstr "Réinitialisez le cache de vos flux Instagram toutes les x heures."
+
+#: includes/view/backend/pages/welcome.php:7
+msgid "Hello we're QuadLayers! We've recently acquired this plugin. We will do our absolute best to support it and fix all the issues."
+msgstr "Bonjour, nous sommes QuadLayers ! Nous avons récemment acquis cette extension. Nous ferons de notre mieux pour le support et la correction de tous les problèmes."
+
+#: includes/view/backend/pages/settings.php:46
+msgid "Select an image from media library to replace the default loader icon."
+msgstr "Sélectionnez une image dans la bibliothèque de médias pour remplacer l’icône du chargeur par défaut."
+
+#: includes/view/backend/pages/settings.php:23
+msgid "Check this box to remove all data related to this plugin on uninstall."
+msgstr "Cochez cette case pour retirer toutes les données liées à cette extension lors de la désinstallation."
+
+#: includes/view/backend/pages/settings.php:28
+msgid "Replace loader"
+msgstr "Remplacer le chargeur"
+
+#: includes/widget.php:49
+msgid "Select your Instagram gallery"
+msgstr "Sélectionnez votre galerie Instagram"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:54
+#: assets/backend/js/gutenberg.js:6
+msgid "Card caption"
+msgstr "Légende de la carte "
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:61
+#: assets/backend/js/gutenberg.js:6
+msgid "Card length"
+msgstr "Longueur de la carte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:21
+msgid "Box radius"
+msgstr "Rayon de la boîte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:15
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:23
+#: assets/backend/js/gutenberg.js:6
+msgid "Add radius to the Instagram Feed"
+msgstr "Ajouter un rayon au flux Instagram"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:50
+msgid "Profile description"
+msgstr "Description du profil"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:13
+#: assets/backend/js/gutenberg.js:6
+msgid "Card radius"
+msgstr "Rayon de la carte"
+
+#: includes/view/backend/pages/premium.php:61
+msgid "Layouts"
+msgstr "Mises en page"
+
+#: includes/view/backend/pages/premium.php:74
+msgid "Highlight layout"
+msgstr "Mise en page du surlignage"
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:11
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:44
+#: assets/backend/js/gutenberg.js:6
+msgid "Profile"
+msgstr "Profil"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:144
+msgid "Highlight feeds items with this ids"
+msgstr "Mettez en surbrillance les éléments de flux avec ces IDs"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:142
+msgid "Highlight by id"
+msgstr "Mettez en surbrillance par ID"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:138
+msgid "Highlight feeds items with this tags"
+msgstr "Mettez en surbrillance les éléments de flux avec ces étiquettes"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:136
+msgid "Highlight by tag"
+msgstr "Mettez en surbrillance par étiquette"
+
+#: includes/view/backend/pages/premium.php:68
+msgid "Masonry layout"
+msgstr "Mise en page masonry"
+
+#: includes/view/backend/pages/premium.php:21
+msgid "Customize colors"
+msgstr "Personnaliser les couleurs"
+
+#: includes/view/backend/pages/welcome.php:16
+#: includes/view/backend/pages/premium.php:10
+msgid "Purchase Now"
+msgstr "Acheter maintenant"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:24
+#: assets/backend/js/gutenberg.js:6
+msgid "Display caption in the popup"
+msgstr "Afficher la légende dans la fenêtre surgissante"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:30
+#: assets/backend/js/gutenberg.js:6
+msgid "Color which is displayed on box background"
+msgstr "Couleur affichée sur l’arrière-plan de la boîte "
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:7
+#: assets/backend/js/gutenberg.js:6
+msgid "Display the Instagram Feed inside a customizable box"
+msgstr "Affichez le flux Instagram dans une boîte personnalisable"
+
+#: includes/view/backend/pages/premium.php:76
+msgid "The highlight layout is a masonry grid that allows you to stand out some images with two or three columns width size."
+msgstr "La mise en page est une grille masonry qui vous permet de faire ressortir certaines images avec une largeur de deux ou trois colonnes."
+
+#: includes/view/backend/pages/premium.php:51
+msgid "Popup content"
+msgstr "Contenu de la fenêtre surgissante"
+
+#: includes/view/backend/pages/premium.php:15
+msgid "Multiple accounts"
+msgstr "Comptes multiples"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:22
+#: assets/backend/js/gutenberg.js:6
+msgid "Add font-size to the Instagram Feed"
+msgstr "Ajouter la taille de police au flux Instagram"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:28
+#: assets/backend/js/gutenberg.js:6
+msgid "Box background"
+msgstr "Arrière-plan de la boîte"
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:14
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:5
+#: assets/backend/js/gutenberg.js:6
+msgid "Box"
+msgstr "Boîte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:14
+#: assets/backend/js/gutenberg.js:6
+msgid "Box padding"
+msgstr "Marge interne de la boîte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:103
+#: includes/view/backend/pages/modals/feed/panel-feed.php:110
+#: includes/view/backend/pages/modals/feed/panel-feed.php:139
+#: includes/view/backend/pages/modals/feed/panel-feed.php:145
+#: includes/view/backend/pages/modals/feed/panel-feed.php:151
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:8
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:16
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:23
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:30
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:37
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:50
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:57
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:16
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:25
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:34
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:40
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:57
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:8
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:17
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:24
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:31
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:38
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:47
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:53
+msgid "(This is a premium feature)"
+msgstr "Ceci est une fonctionnalité Premium"
+
+#: includes/view/backend/pages/premium.php:29
+msgid "Allow your users to load more images in the gallery providing an improved user experience."
+msgstr "Autoriser vos utilisateurs à charger plus d’images dans la galerie pour une expérience utilisateur améliorée."
+
+#: includes/view/backend/pages/premium.php:23
+msgid "Customize the colors of the Instagram Feed with a custom background, padding, and a rounded border. It also includes the user or tag profile info in the header of the box."
+msgstr "Personnaliser les couleurs du flux Instagram avec un arrière-plan personnalisé, une marge interne et une bordure arrondie. Cela inclut également les informations de profil utilisateur ou étiquette dans l’en-tête de la boîte."
+
+#: includes/view/backend/pages/premium.php:17
+msgid "Include unlimited user accounts and create feeds galleries for different users with their own layout and settings."
+msgstr "Incluez un nombre illimité de comptes d’utilisateurs et créez des galeries de flux pour différents utilisateurs avec leurs propres mises en page et réglages."
+
+#: includes/view/backend/pages/premium.php:7
+msgid "Unlock the power of our premium %s plugin which allows you to add unlimited Instagram accounts and offers you more layout options."
+msgstr "Libérez la puissance de notre extension premium %s qui permet d’ajouter un nombre illimité de comptes Instagram et vous offre plus d’options de mise en page."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:7
+#: assets/backend/js/gutenberg.js:6
+msgid "Display card gallery by clicking on image"
+msgstr "Affiche la galerie de cartes en cliquant sur l’image "
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:27
+#: assets/backend/js/gutenberg.js:6
+msgid "Card background"
+msgstr "Arrière-plan de carte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:20
+#: assets/backend/js/gutenberg.js:6
+msgid "Card font size"
+msgstr "Taille de police de la carte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:41
+#: assets/backend/js/gutenberg.js:6
+msgid "Card padding"
+msgstr "Marge interne de la carte"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:52
+msgid "Box description here"
+msgstr "Saisissez la description ici"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:16
+#: assets/backend/js/gutenberg.js:6
+msgid "Add padding to the Instagram Feed"
+msgstr "Ajouter une marge interne au flux Instagram"
+
+#: includes/view/backend/pages/premium.php:70
+msgid "The masonry layout is a grid that displays the images with a fixed with and variable height size."
+msgstr "La mise en page « masonry » est une grille qui affiche les images avec une largeur fixe et une hauteur variable."
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:148
+msgid "Highlight by position"
+msgstr "Mettre en surbrillance par position"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:56
+#: assets/backend/js/gutenberg.js:6
+msgid "Display caption count of images"
+msgstr "Afficher le nombre de légendes des images"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:47
+#: assets/backend/js/gutenberg.js:6
+msgid "Card info"
+msgstr "Informations sur la carte "
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:29
+#: assets/backend/js/gutenberg.js:6
+msgid "Color which is displayed when over images"
+msgstr "Couleur qui s’affiche lors du survol des images "
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:150
+msgid "Highlight feeds items in this positions"
+msgstr "Mettez en surbrillance les éléments de flux dans ces positions"
+
+#: includes/view/backend/pages/premium.php:44
+msgid "More content"
+msgstr "Plus de contenu"
+
+#: includes/view/backend/pages/premium.php:27
+msgid "Load more button"
+msgstr "Bouton Charger plus"
+
+#. Plugin URI of the plugin
+msgid "https://quadlayers.com/portfolio/instagram-feed-gallery/"
+msgstr "https://quadlayers.com/portfolio/instagram-feed-gallery/"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:43
+#: includes/view/backend/pages/modals/feed/panel-feed-image-card.php:63
+#: includes/view/backend/pages/modals/feed/panel-feed-image.php:25
+#: assets/backend/js/gutenberg.js:6
+msgid "Add blank space between images"
+msgstr "Ajouter un espace vide entre les images"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:10
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:10
+#: assets/backend/js/gutenberg.js:6
+msgid "Instagram button text"
+msgstr "Texte du bouton Instagram "
+
+#: includes/view/backend/pages/welcome.php:26
+msgid "Support"
+msgstr "Support"
+
+#: includes/api/apiBASIC.php:284
+msgid "Please provide a valid #tag"
+msgstr "Veuillez fournir une #étiquette valide."
+
+#: includes/view/backend/pages/feeds.php:18
+msgid "Layout"
+msgstr "Mise en page"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:102
+msgid "Masonry"
+msgstr "Masonry"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:37
+#: includes/view/backend/pages/accounts.php:30 assets/backend/js/gutenberg.js:6
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:92
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:7
+#: includes/view/backend/pages/modals/feed/panel-feed.php:97
+#: assets/backend/js/gutenberg.js:6
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:5
+#: assets/backend/js/gutenberg.js:6
+msgid "Slides per view"
+msgstr "Diapositives par vue"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image.php:8
+msgid "Medium"
+msgstr "Moyenne"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image.php:9
+msgid "Small"
+msgstr "Petite"
+
+#: includes/view/backend/pages/feeds.php:20
+#: includes/view/backend/pages/accounts.php:35
+msgid "Action"
+msgstr "Action"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:12
+#: assets/backend/js/gutenberg.js:6
+msgid "Autoplay"
+msgstr "Lecture automatique"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image.php:7
+msgid "Standard"
+msgstr "Standard"
+
+#. Author of the plugin
+#: includes/view/backend/pages/parts/header.php:26
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#. Author URI of the plugin
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#: includes/controllers/WelcomeController.php:21
+msgid "Welcome"
+msgstr "Bienvenue !"
+
+#: includes/controllers/SettingController.php:42
+msgid "Invalid Request"
+msgstr "Demande non valide"
+
+#: includes/view/backend/pages/welcome.php:33
+msgid "Community"
+msgstr "Communauté"
+
+#: includes/view/backend/pages/parts/header.php:9
+#: includes/view/backend/pages/welcome.php:19
+msgid "Demo"
+msgstr "Démo"
+
+#: includes/view/backend/pages/welcome.php:23
+#: includes/view/backend/pages/premium.php:11
+msgid "View demo"
+msgstr "Voir la démo"
+
+#: includes/view/backend/pages/welcome.php:30
+msgid "Submit ticket"
+msgstr "Envoyer un ticket"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:35
+#: includes/view/backend/pages/modals/feed/panel-feed.php:45
+#: assets/backend/js/gutenberg.js:6
+msgid "Tag"
+msgstr "Étiquette"
+
+#: includes/view/backend/pages/settings.php:42
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:23
+#: assets/backend/js/gutenberg.js:6
+msgid "Upload"
+msgstr "Téléverser"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:120
+#: assets/backend/js/gutenberg.js:6
+msgid "Limit"
+msgstr "Limite"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:128
+#: assets/backend/js/gutenberg.js:6
+msgid "Columns"
+msgstr "Colonnes"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:5
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:5
+#: assets/backend/js/gutenberg.js:6
+msgid "Instagram button"
+msgstr "Bouton d’Instagram"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:12
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:12
+#: assets/backend/js/gutenberg.js:6
+msgid "Instagram button text here"
+msgstr "Le texte du bouton d’Instagram ici"
+
+#: includes/api/api.php:47 includes/api/apiBASIC.php:316
+msgid "Unknow error occurred, please try again"
+msgstr "Une erreur est survenue, veuillez réessayer."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:52
+#: assets/backend/js/gutenberg.js:6
+msgid "Right"
+msgstr "Droite"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:51
+#: assets/backend/js/gutenberg.js:6
+msgid "Left"
+msgstr "Gauche"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:54
+#: assets/backend/js/gutenberg.js:6
+msgid "Top"
+msgstr "Haut"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:49
+#: assets/backend/js/gutenberg.js:6
+msgid "Images popup align"
+msgstr "Alugnement des images de fenêtre surgissante"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:22
+#: assets/backend/js/gutenberg.js:6
+msgid "Images popup caption"
+msgstr "Légende des images de fenêtre surgissante"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:15
+#: includes/view/backend/pages/modals/feed/panel-feed-box.php:46
+#: assets/backend/js/gutenberg.js:6
+msgid "Display user profile or tag info"
+msgstr "Afficher le profil d’utilisateur ou les informations d’étiquette"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:5
+#: assets/backend/js/gutenberg.js:6
+msgid "Images popup"
+msgstr "Fenêtre surgissante Images"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:47
+#: assets/backend/js/gutenberg.js:6
+msgid "Pagination color"
+msgstr "Couleur de pagination"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:42
+#: assets/backend/js/gutenberg.js:6
+msgid "Display pagination dots"
+msgstr "Afficher les points de pagination"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:40
+#: assets/backend/js/gutenberg.js:6
+msgid "Pagination"
+msgstr "Pagination"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:33
+#: assets/backend/js/gutenberg.js:6
+msgid "Navigation color"
+msgstr "Couleur de navigation"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:28
+#: assets/backend/js/gutenberg.js:6
+msgid "Display navigation arrows"
+msgstr "Afficher les flèches de navigation"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:26
+#: assets/backend/js/gutenberg.js:6
+msgid "Navigation"
+msgstr "Navigation"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:109
+msgid "Highlight"
+msgstr "Surbrillance"
+
+#: includes/frontend.php:251
+msgid "The layout %s is not a available."
+msgstr "La mise en page %s n’est pas disponible."
+
+#: templates/alert.php:16
+msgid "Unable to get results"
+msgstr "Impossible d’obtenir des résultats"
+
+#: includes/notices.php:119 includes/controllers/PremiumController.php:9
+#: includes/view/backend/pages/parts/header.php:8
+#: includes/view/backend/pages/welcome.php:12
+#: includes/view/backend/pages/premium.php:5
+#: includes/view/backend/pages/modals/feed/panel-feed-profile.php:30
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:17
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:17
+#: assets/backend/js/gutenberg.js:6
+msgid "Instagram button background"
+msgstr "Arrière-plan du bouton Instagram "
+
+#: includes/view/backend/pages/feeds.php:16
+#: includes/view/backend/pages/accounts.php:32
+msgid "Token"
+msgstr "Jeton "
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:19
+#: assets/backend/js/gutenberg.js:6
+msgid "Autoplay Interval"
+msgstr "Intervalle de lecture automatique"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:14
+#: assets/backend/js/gutenberg.js:6
+msgid "Autoplay carousel items"
+msgstr "Éléments du carrousel de lecture automatique"
+
+#: includes/controllers/SettingController.php:39
+msgid "Settings updated successfully"
+msgstr "Les réglages ont bien été mis à jour"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:53
+#: assets/backend/js/gutenberg.js:6
+msgid "Bottom"
+msgstr "Bas"
+
+#: includes/controllers/FeedController.php:14
+msgid "Feeds"
+msgstr "Flux"
+
+#: includes/compatibility.php:384
+msgid "Please update Instagram Access Token in the account settings tab."
+msgstr "Veuillez mettre à jour le jeton d’accès Instagram dans l’onglet des réglages du compte."
+
+#: includes/compatibility.php:376
+msgid "Please update Instagram User in the gallery settings tab."
+msgstr "Veuillez mettre à jour l’utilisateur Instagram dans l’onglet des réglages de la galerie."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:22
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:22
+#: assets/backend/js/gutenberg.js:6
+msgid "Instagram button hover background"
+msgstr "Arrière-plan de survol du bouton Instagram"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image.php:23
+#: assets/backend/js/gutenberg.js:6
+msgid "Images spacing"
+msgstr "Espacement des images"
+
+#: includes/view/backend/pages/modals/account/main.php:22
+#: includes/view/backend/pages/modals/account/main.php:27
+msgid "Get access token"
+msgstr "Obtenez un jeton d’accès"
+
+#: includes/view/backend/pages/accounts.php:19
+msgid "Button not working?"
+msgstr "Le bouton ne fonctionne pas ?"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:7
+#: assets/backend/js/gutenberg.js:6
+msgid "Number of images per slide"
+msgstr "Nombre d’images par diapositive"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-mask.php:7
+#: assets/backend/js/gutenberg.js:6
+msgid "Image mouseover effect"
+msgstr "Effet de survol de l’image "
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:49
+#: assets/backend/js/gutenberg.js:6
+msgid "Please enter Instagram tag"
+msgstr "Veuillez saisir l’étiquette Instagram"
+
+#: includes/view/backend/pages/welcome.php:28
+msgid "If you have any doubt or you find any issue don't hesitate to contact us through our ticket system or join our community to meet other %s users."
+msgstr "En cas de doute ou si vous trouvez un problème, n’hésitez pas à nous contacter via notre système de tickets ou à rejoindre notre communauté pour rencontrer d’autres utilisateurs de %s."
+
+#: includes/view/backend/pages/welcome.php:14
+#: includes/view/backend/pages/welcome.php:21
+msgid "Thank you for choosing our %s plugin for WordPress! Here you can see our demo and test the features we offer in the premium version."
+msgstr "Merci d’avoir choisi notre extension %s pour WordPress ! Ici vous pouvez voir notre démo et tester les fonctionnalités que nous proposons dans la version premium."
+
+#: includes/view/backend/pages/welcome.php:35
+msgid "If you want to get in touch with other %s users or be aware of our promotional discounts join our community now."
+msgstr "Si vous souhaitez entrer en contact avec d’autres utilisateurs de %s ou être au courant de nos remises promotionnelles, rejoignez notre communauté maintenant."
+
+#: includes/view/backend/pages/modals/account/main.php:26
+msgid "Enter a valid access token"
+msgstr "Saisissez un jeton d’accès valide "
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:122
+msgid "Number of images to display"
+msgstr "Nombre d’images à afficher :"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:21
+#: assets/backend/js/gutenberg.js:6
+msgid "Moves to next picture after specified time interval"
+msgstr "Passe à l’image suivante après le délai spécifié"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:35
+#: assets/backend/js/gutenberg.js:6
+msgid "Change navigation arrows color"
+msgstr "Changez la couleur des flèches de navigation ici"
+
+#: includes/widget.php:45
+msgid "Title"
+msgstr "Titre"
+
+#: includes/notices.php:120
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/view/backend/pages/feeds.php:61
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/widget.php:78
+msgid "Add New Gallery"
+msgstr "Ajouter une nouvelle galerie"
+
+#: includes/view/backend/pages/feeds.php:15
+#: includes/view/backend/pages/modals/feed/panel-tabs.php:17
+#: includes/view/backend/pages/accounts.php:29 assets/backend/js/gutenberg.js:6
+msgid "Image"
+msgstr "Image"
+
+#: includes/view/backend/pages/modals/account/main.php:10
+msgid "Manually connect an account"
+msgstr "Connecter manuellement un compte"
+
+#: includes/widget.php:8
+msgid "Displays your Instagram gallery"
+msgstr "Affiche votre galerie Instagram"
+
+#: includes/view/backend/pages/settings.php:43
+msgid "Reset Spinner"
+msgstr "Spinner Réinitialiser"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:24
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:24
+#: assets/backend/js/gutenberg.js:6
+msgid "Color which is displayed when hovered over button"
+msgstr "Couleur qui s’affiche lorsque vous survolez le bouton"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:19
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:19
+#: assets/backend/js/gutenberg.js:6
+msgid "Color which is displayed on button background"
+msgstr "Couleur affichée sur l’arrière-plan du bouton "
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-popup.php:39
+#: includes/view/backend/pages/modals/feed/panel-feed-image-mask.php:30
+#: assets/backend/js/gutenberg.js:6
+msgid "Display comments count of images"
+msgstr "Afficher le nombre de commentaires des images"
+
+#: includes/view/backend/pages/accounts.php:33
+msgid "Type"
+msgstr "Type"
+
+#: includes/frontend.php:64
+msgid "Invalid item id"
+msgstr "ID d’élément non valide"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:130
+msgid "Number of images in a row"
+msgstr "Nombre d’images dans une ligne"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-button.php:7
+#: includes/view/backend/pages/modals/feed/panel-feed-button-load.php:7
+#: assets/backend/js/gutenberg.js:6
+msgid "Display the button to open Instagram site link"
+msgstr "Afficher le bouton pour ouvrir le lien du site Instagram"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-mask.php:13
+#: assets/backend/js/gutenberg.js:6
+msgid "Images mask color"
+msgstr "Couleur du masque des images"
+
+#: includes/view/backend/pages/feeds.php:19
+msgid "Shortcode"
+msgstr "Code court"
+
+#: includes/controllers/AccountController.php:38
+msgid "Accounts"
+msgstr "Comptes"
+
+#: includes/view/backend/pages/modals/feed/panel-feed-carousel.php:49
+#: assets/backend/js/gutenberg.js:6
+msgid "Change pagination dots color"
+msgstr "Modifier la couleur des points de pagination"
+
+#: includes/view/backend/pages/modals/feed/panel-feed.php:26
+msgid "No Instagram account connected. Please connect your account <a href=\"%s\">here</a>."
+msgstr "Aucun compte Instagram connecté. Veuillez connecter votre compte <a target=\"_blank\" href=\"%s\">ici</a>."
+
+#: includes/view/backend/pages/modals/feed/panel-feed-image-mask.php:5
+#: assets/backend/js/gutenberg.js:6
+msgid "Images mask"
+msgstr "Masque d’images"
